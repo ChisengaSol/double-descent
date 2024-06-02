@@ -1,4 +1,4 @@
-*Double Descent Phenomenon Demonstration*
+**Double Descent Phenomenon Demonstration**
 
 This project demonstrates the double descent phenomenon using a simple regression model with 500 samples and 1000 features.
 
@@ -38,7 +38,7 @@ python main.py
 
 *Results*
 
-!results/result.png
+results/result.png
 
 Note: The result.png file will be generated after running the main.py file.
 
