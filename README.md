@@ -38,7 +38,7 @@ python main.py
 
 *Results*
 
-results/result.png
+`results/result.png`
 
 Note: The result.png file will be generated after running the main.py file.
 
