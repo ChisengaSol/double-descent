@@ -6,33 +6,27 @@ This project demonstrates the double descent phenomenon using a simple regressio
 
 1. Clone the repository using:
 ```
-bash
 git clone https://github.com/ChisengaSol/double-descent.git
 ```
 1. Navigate to the source directory:
 ```
-bash
 cd double-descent
 ```
 1. Ensure that Python is installed on your machine.
 2. Create a virtual environment using:
 ```
-shell
 python -m venv double_descent_venv
 ```
 1. Activate the virtual environment using:
 ```
-bash
 source double_descent_venv/bin/activate
 ```
 1. Install the dependencies using:
 ```
-shell
 pip install -r requirements.txt
 ```
 1. Run the main file using:
 ```
-shell
 python main.py
 ```
 
