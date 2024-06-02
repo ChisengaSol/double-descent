@@ -1,11 +1,12 @@
 import torch
 
-#function to train and evaluate model
+
+# Function to train and evaluate model
 def train_and_eval(model, criterion, optimizer, X_train, y_train, X_test, y_test):
     train_losses = []
     test_losses = []
 
-    num_epochs=1000
+    num_epochs = 1000
     for epoch in range(num_epochs):
         model.train()
         optimizer.zero_grad()
